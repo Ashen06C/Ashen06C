@@ -15,6 +15,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Ashen06C&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashen06c&" alt="ashen06c" /></p>
