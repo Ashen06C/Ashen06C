@@ -1,6 +1,6 @@
-# Hi there 👋
+# Hi there! 👋
 
-## Hello there! I'm Ashen Wijesinghe
+## I'm Ashen Wijesinghe
 
 I am a Full Stack Developer from Sri Lanka
 
