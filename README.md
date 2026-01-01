@@ -2,7 +2,7 @@
 
 ## I'm Ashen Wijesinghe
 
-I am a Full Stack Developer from Sri Lanka
+I am a Full Stack Developer from Sri 
 
 ![Profile views](https://komarev.com/ghpvc/?username=Ashen06C&color=blue)
 
