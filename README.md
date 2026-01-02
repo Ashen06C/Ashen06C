@@ -8,7 +8,7 @@ I am a Full Stack Developer from Sri Lanka
 
 🌱 I'm currently studying for **BSc. (Hons.) in IT at University of Moratuwa**  
 
-👨‍💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/rukshanjs)
+👨‍💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/ashen-wijesinghe-18329a264/)
 
 🌐 Check out my portfolio [ashencw.vercel.app](https://ashencw.vercel.app/)
 
